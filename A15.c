@@ -10,7 +10,7 @@
 
 int main(void){
 	
-	printf("by 3a713229\n");
+	printf("by 3a713229\n\n");
 	char input_arr[]="Taiwan, Touch, Your, Heart";
 	char *ptr_input;
 	
